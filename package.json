@@ -9,7 +9,9 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "connect-sqlite3": "^0.9.13",
     "next": "12.2.3",
+    "next-session": "^4.0.5",
     "react": "18.2.0",
     "react-dom": "18.2.0"
   },
